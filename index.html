@@ -1,33 +1,184 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>Quiz Example</title>
-  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
-  <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="external/sweet-alert.css">
-  <link rel="stylesheet" href="quiz.css">
-  <style>
-    #quiz {
-      height: 600px;
-      display: block;
-    }
-  </style>
-</head>
-<body>
-  <div class="container-fluid">
-    <div id="quiz"></div>
-  </div>
-  <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-  <script src="external/sweet-alert.js"></script>
-  <script src="quiz.js"></script>
-  <script>
-    $(function() {
-      $('#quiz').quiz("exampleQuiz/unicorns.json");
-    });
-  </script>
-</body>
+<!DOCTYPE HTML>
+<!--
+	Binary by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Coeus</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="logo"><strong>Coeus:</strong> A Closer Look at Corporate Ethical Responsibility</a>
+				<nav>
+					<a href="#menu">Menu</a>
+				</nav>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="generic.html">Generic</a></li>
+					<li><a href="quiz.html">Elements</a></li>
+				</ul>
+			</nav>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<h1>Welcome to Coeus!</h1>
+					<h3 style="padding-bottom: 20px;"><i>A crucible for testing your knowledge of ethical frameworks, as they pertain to the topic of corporate ethical responsibility</i></h3>
+					<ul class="actions">
+						<li><a href="#zero" class="button alt scrolly big">Get Started</a></li>
+					</ul>
+				</div>
+			</section>
+
+			<!-- Zero -->
+				<article id="zero" class="post invert style1 alt">
+					<div class="image">
+						<img src="images/csr.jpg" alt="" data-position="75% center" />
+					</div>
+					<div class="content">
+						<div class="inner">
+							<header>
+								<h2><a href="summaries/csr.html">Corporate Social Responsibility</a></h2>
+								<p class="info">God Forbid Twitter Cancels You</p>
+							</header>
+							<p>Corporate social responsibility is aimed at self regulating businesses so that they are not only socially accountable, but also attract potential consumers that agree with their practices.</p>
+							<p>Find out more about corporate social responsibility by clicking below.</p>
+							<ul class="actions">
+								<li><a href="summaries/csr.html" class="button alt">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="postnav">
+							<a href="#" class="prev disabled"><span class="icon fa-chevron-up"></span></a>
+							<a href="#one" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+						</div>
+					</div>
+				</article>
+
+		<!-- One -->
+			<article id="one" class="post style1">
+				<div class="image">
+					<img src="images/trolley.jpeg" alt="" data-position="75% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="summaries/utilitarian.html">Utilitarian Ethics</a></h2>
+							<p class="info">Will you pull the lever?</p>
+						</header>
+						<p>A form of consequentialism, utilitarianism is generally held to be the view that the morally right action is the action that produces the most good.</p>
+						<p>Find out what utilitarians think about corporate social responsibility by clicking below.</p>
+						<ul class="actions">
+							<li><a href="summaries/utilitarian.html" class="button alt">Learn More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#zero" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#two" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
+
+		<!-- Two -->
+			<article id="two" class="post invert style1 alt">
+				<div class="image">
+					<img src="images/marcus.jpg" alt="" data-position="10% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Stoic Ethics</a></h2>
+							<p class="info">The Ancient Art of Not Caring</p>
+						</header>
+						<p>A philosophy that teaches the path to happiness, or eudaimonia, is found through living in the moment and not allowing oneself to live in fear of pain or desire for pleasure.</p>
+						<p>Find out what stoics think about corporate social responsibility by clicking below.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Learn More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#one" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#three" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
+
+		<!-- Three -->
+			<article id="three" class="post style2">
+				<div class="image">
+					<img src="images/law.jpeg" alt="" data-position="80% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Legalist Ethics</a></h2>
+							<p class="info">Say Hello to Big Brother</p>
+						</header>
+						<p>Legalism holds that people are far too swayed by material desires to be guided by a sense of shame, and therefore virtue will not be a motivator of people's actions; instead, clear edicts and strong punishments must be used.</p>
+						<p>Find out what legalists think about corporate social responsibility by clicking below.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Learn More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#two" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#four" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
+
+		<!-- Four -->
+			<article id="four" class="post invert style2 alt">
+				<div class="image">
+					<img src="images/feminism.jpg" alt="" data-position="60% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Feminist Ethics</a></h2>
+							<p class="info">I Don't Feel Comfortable Making a Witty Comment on This One</p>
+						</header>
+						<p>Feminist ethics aims to "understand, criticize, and correct" the binary view of gender, male privilege, and how gender has been used as a construct to maintain oppression.</p>
+						<p>Find out what feminists think about corporate social responsibility by clicking below.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Learn More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#three" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#five" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				</ul>
+				<div class="copyright">
+					&copy; Coeus by Justin Virgadamo. Design: <a href="https://templated.co">TEMPLATED</a>.
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
