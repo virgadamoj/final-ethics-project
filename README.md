@@ -11,14 +11,14 @@ This educational website, dubbed Coeus after the Greek Titan of knowledge, is a 
 ## Sources
 
 #### Research Sources
-[https://plato.stanford.edu/entries/feminism-ethics/](https://plato.stanford.edu/entries/feminism-ethics/)
-[https://plato.stanford.edu/entries/ethics-chinese/](https://plato.stanford.edu/entries/ethics-chinese/)
-[https://plato.stanford.edu/entries/stoicism/](https://plato.stanford.edu/entries/stoicism/)
-[https://plato.stanford.edu/entries/utilitarianism-history/](https://plato.stanford.edu/entries/utilitarianism-history/)
-[https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html](https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html)
-[https://newrepublic.com/article/147293/rise-corporate-social-responsibility](https://newrepublic.com/article/147293/rise-corporate-social-responsibility)
-[https://www.economist.com/briefing/2018/01/20/the-techlash-against-amazon-facebook-and-google-and-what-they-can-do](https://www.economist.com/briefing/2018/01/20/the-techlash-against-amazon-facebook-and-google-and-what-they-can-do)
+[https://plato.stanford.edu/entries/feminism-ethics/](https://plato.stanford.edu/entries/feminism-ethics/)\
+[https://plato.stanford.edu/entries/ethics-chinese/](https://plato.stanford.edu/entries/ethics-chinese/)\
+[https://plato.stanford.edu/entries/stoicism/](https://plato.stanford.edu/entries/stoicism/)\
+[https://plato.stanford.edu/entries/utilitarianism-history/](https://plato.stanford.edu/entries/utilitarianism-history/)\
+[https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html](https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html)\
+[https://newrepublic.com/article/147293/rise-corporate-social-responsibility](https://newrepublic.com/article/147293/rise-corporate-social-responsibility)\
+[https://www.economist.com/briefing/2018/01/20/the-techlash-against-amazon-facebook-and-google-and-what-they-can-do](https://www.economist.com/briefing/2018/01/20/the-techlash-against-amazon-facebook-and-google-and-what-they-can-do)\
 
 #### Website Sources
-Used [Binary HTML Template](https://templated.co/binary) for front-end look
-Forked [Urban Institute's quick-quiz repository](https://github.com/UrbanInstitute/quick-quiz) for the quiz functions
+Used [Binary HTML Template](https://templated.co/binary) for front-end look\
+Forked [Urban Institute's quick-quiz repository](https://github.com/UrbanInstitute/quick-quiz) for the quiz functions\
