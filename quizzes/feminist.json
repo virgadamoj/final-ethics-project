@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "1852",
+        "1900",
+        "1945",
+        "1970"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "With philosophical journals publishing more articles about feminism, as well as the establishment of Women's Studies programs at a few colleges, the field really started to gain ground."
+      },
+      "number": 1,
+      "prompt": "What year did feminist ethics emerge as an area of study?"
+    },
+    {
+      "answers": [
+        "Power to hold certain jobs",
+        "Land ownership",
+        "Voting rights",
+        "Education for young girls"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "The first forerunners of feminism tried to argue that as rational creatures, young girls should be given the opportunity to develop moral character through education."
+      },
+      "number": 2,
+      "prompt": "What was the first goal of the forerunners of feminism?"
+    },
+    {
+      "answers": [
+        "Leaving behind desires of pleasure and fear of pain, and just focusing on one's role in the world",
+        "Clear edicts and strong punishments",
+        "Most good for most number of people",
+        "Understanding, criticizing, and correcting the oppression caused by gender"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "From the Stanford Encyclopedia of Philosophy, feminist ethics aims “to understand, criticize, and correct” the binary view of gender, the privilige historically available to men, and/or the ways that views about gender maintain oppressive social orders or practices that harm others, especially girls and women who historically have been subordinated."
+      },
+      "number": 3,
+      "prompt": "At its heart, what does feminism hold as most important in life?"
+    },
+    {
+      "answers": [
+        "Promoting an unhealthy and sexist culture around the workplace",
+        "Lack of proper orientation concerning sexism when employees start working at the company",
+        "Dissuading employees from going to protests for women's rights because they don't want their company to take a political stance",
+        "Promoting opportunities for more female representation in leadership roles"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "More leadership roles for women pave the way for creating a healthy culture in a company, purposefully granting them opportunities that may have otherwise not been available due to cultural and implicit biases."
+      },
+      "number": 4,
+      "prompt": "Which of these corporate social responsibility actions would be considered positive from the view of a feminist?"
+    },
+    {
+      "answers": [
+        "Promoting an unhealthy and sexist culture around the workplace",
+        "Lack of proper orientation concerning sexism when employees start working at the company",
+        "Dissuading employees from going to protests for women's rights because they don't want their company to take a political stance",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "All of these are great examples of terrible, sexist environments that corporations should have a responsibility in stamping out"
+      },
+      "number": 5,
+      "prompt": "Which of these corporate social responsibility actions would be NOT considered positive from the view of a feminist?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Feminists love corporate social responsibilty."
+      },
+      "number": 7,
+      "prompt": "Corporate social responsibility is a strong positive for everyone involved, employees and consumers, increasing the amount of virtue in the world."
+    }
+  ],
+  "title": "Feminist Corporate Social Responsibility",
+  "url": "https://virgadamoj.github.io/final-ethics-project/"
+}

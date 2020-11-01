@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "16th Century",
+        "17th Century",
+        "19th Century",
+        "20th Century"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Theological utlitarians Richard Cumberland and John Gay started wondering about how virtue played a role in life, and it led to a discussion about maximizing virtue, and therefore, the good."
+      },
+      "number": 1,
+      "prompt": "Around what time did the roots of utilitarianism start to take hold?"
+    },
+    {
+      "answers": [
+        "Values of Aristotle",
+        "Hedonistic Value Theory",
+        "Satanic Rituals",
+        "Personal Welfare"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Jeremy Bentham and John Stuart Mill focused more on goods and evils that could be manifested, and therefore be more properly calculated."
+      },
+      "number": 2,
+      "prompt": "What did classical utilitarians later focus on as a focal point for the philosophy?"
+    },
+    {
+      "answers": [
+        "Understanding, criticizing, and correcting the oppression caused by gender",
+        "Most good for most number of people",
+        "Leaving behind desires of pleasure and fear of pain, and just focusing on one's role in the world",
+        "Clear edicts and strong punishments"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The ideal ethical choice using this framework will always be the one that generates the most good for the maximum number of people possible."
+      },
+      "number": 3,
+      "prompt": "At its heart, what does utilitarianism hold as most important in life?"
+    },
+    {
+      "answers": [
+        "Suing a smaller company for using a similar logo",
+        "Planting trees to better the atmosphere with more oxygen",
+        "Dropping prices to undercut competitors to become a monopoly",
+        "Anything Jeff Bezos does"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Environmental conservation is important, especially considering it's one of the most important ways companies can practice social responsibilty. It's also incredibly important from a utilitarian view as well, considering environmental conservation benefits every single person alive today."
+      },
+      "number": 4,
+      "prompt": "Which of these corporate social responsibility actions would be considered positive from the view of a utilitarian?"
+    },
+    {
+      "answers": [
+        "Planting trees to better the atmosphere with more oxygen",
+        "Setting incredibly unrealistic labor practices on workers",
+        "Donating large amounts of money to a local charity",
+        "Never giving employees time off to volunteer"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Unrealistic labor practices anger both company's employees and the public as a whole, creating a whole lot of trouble for everyone involved, leading to a lack of good."
+      },
+      "number": 5,
+      "prompt": "Which of these corporate social responsibility actions would be NOT considered positive from the view of a utilitarian?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "All my homies hate Jeff Bezos. He is, as they say, a greedy boy. Share the wealth, increase the good!"
+      },
+      "number": 6,
+      "prompt": "Amazon is an example of a company that utilitarians would enjoy, if looking at responsible social practices."
+    },
+    {
+      "answers": [
+        "False",
+        "True"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Utilitarians love corporate social responsibilty."
+      },
+      "number": 7,
+      "prompt": "Corporate social responsibility is a strong positive for everyone involved, employees and consumers, increasing the maximum amount of good in the world."
+    }
+  ],
+  "title": "Utilitarian Corporate Social Responsibility",
+  "url": "https://virgadamoj.github.io/final-ethics-project/"
+}
