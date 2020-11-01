@@ -1,4 +1,4 @@
-# Quick quiz generator
+# Final Ethics Project: Corporate Social Responsibilty from Multiple Perspectives
 
 ## Example
 
