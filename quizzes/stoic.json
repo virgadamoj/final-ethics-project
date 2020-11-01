@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Hellenistic Period",
+        "Viking Age",
+        "20st Century",
+        "Imperial Era"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The beginning of stoicism traces all the way back to the Hellenistic era, but most of the writings actually come from the Imperial Era."
+      },
+      "number": 1,
+      "prompt": "Around what time did the roots of stoicism start to take hold?"
+    },
+    {
+      "answers": [
+        "Seneca, Epictetus, and Marcus Aurelius",
+        "Seneca, Napolean, and Brutus",
+        "Caesar, Augustus, and Shakespeare",
+        "Jeff Bezos, Mark Zuckerburg, and the CEO of Google"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The majority of teachings we have for this philosophy comes from writers of the Imperial era, namely Seneca, Epictetus, and Marcus Aurelius, and luckily for us, these teachings focus primarily on ethics."
+      },
+      "number": 2,
+      "prompt": "Who proposed the main teachings of stoicism?"
+    },
+    {
+      "answers": [
+        "Leaving behind desires of pleasure and fear of pain, and just focusing on one's role in the world",
+        "Understanding, criticizing, and correcting the oppression caused by gender",
+        "Most good for most number of people",
+        "Clear edicts and strong punishments"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The Stoics believe that the path to happiness (or as they call it, eudaimonia) reveals itself to one who is not controlled by the humanistic desires of pleasure or fears of pain, they simply find their role in the world and perform that."
+      },
+      "number": 3,
+      "prompt": "At its heart, what does stoicism hold as most important in life?"
+    },
+    {
+      "answers": [
+        "Promoting volunteering because the company legitimately cares about its community",
+        "Promoting volunteering to generate positive press attention",
+        "Dissuading employees from volunteering to focus on the bottom line",
+        "Dissuading employees from volunteering because they hate their local community"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "To stoics, virtue is the only good; therefore, the only truly virtuous action a company could take her is volunteering because they actually care about their community."
+      },
+      "number": 4,
+      "prompt": "Which of these corporate social responsibility actions would be considered positive from the view of a stoic?"
+    },
+    {
+      "answers": [
+        "Dissuading employees from volunteering because the company wants them to spend more time in the office, not in the community",
+        "Promoting volunteering because the company legitimately cares about its community",
+        "Promoting volunteering because the company wants to encourage its employees to care about their community",
+        "Dissuading employees from volunteering because the charity they volunteer for is actually corrupt"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "This option shows a real lack of virtue, considering the company cares more about themselves than others, a great vice."
+      },
+      "number": 5,
+      "prompt": "Which of these corporate social responsibility actions would be NOT considered positive from the view of a stoic?"
+    },
+    {
+      "answers": [
+        "False",
+        "True"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Amazon does not promote virtue, and therefore should not be considered a company stoics would enjoy."
+      },
+      "number": 6,
+      "prompt": "Amazon is an example of a company that stoics would enjoy, if looking at responsible social practices."
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Stoics love corporate social responsibilty."
+      },
+      "number": 7,
+      "prompt": "Corporate social responsibility is a strong positive for everyone involved, employees and consumers, increasing the amount of virtue in the world."
+    }
+  ],
+  "title": "Stoic Corporate Social Responsibility",
+  "url": "https://virgadamoj.github.io/final-ethics-project/"
+}
