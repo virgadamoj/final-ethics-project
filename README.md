@@ -21,4 +21,4 @@ This educational website, dubbed Coeus after the Greek Titan of knowledge, is a 
 
 #### Website Sources
 Used [Binary HTML Template](https://templated.co/binary) for front-end look\
-Forked [Urban Institute's quick-quiz repository](https://github.com/UrbanInstitute/quick-quiz) for the quiz functions\
+Forked [Urban Institute's quick-quiz repository](https://github.com/UrbanInstitute/quick-quiz) for the quiz functions
